@@ -1,123 +1,123 @@
 body {
-    font-size: 13px;
-    letter-spacing: 1px;
-    font-family: 'Roboto', sans-serif;
-    "Open Sans",
-    "Helvetica Neue",
-    color: #666;
-    padding: 0;
-    margin: 0;
+	font-size: 13px;
+	letter-spacing: 1px;
+	font-family: 'Roboto', sans-serif;
+	"Open Sans",
+	"Helvetica Neue",
+	color: #666;
+	padding: 0;
+	margin: 0;
 }
 
 h1,
 h2,
 h3,
 p {
-    opacity: 0.8;
+	opacity: 0.8;
 }
 
 .col-md-6 {
-    width: 48%;
+	width: 48%;
 }
 
 .col-md-9 {
-    width: 72%;
+	width: 72%;
 }
 
 .col-md-6 {
-    width: 48%;
+	width: 48%;
 }
 
 .col-md-6-right {
-    width: 48%;
+	width: 48%;
 }
 
 .col-md-4 {
-    width: 32%;
+	width: 32%;
 }
 
 .col-md-3 {
-    width: 24%;
+	width: 24%;
 }
 
 .wrapper {
-    max-width: 1180px;
-    width: 95%;
-    margin: 0 auto;
+	max-width: 1180px;
+	width: 95%;
+	margin: 0 auto;
 }
 
 header {
-    background: url(../images/app8.jpg) no-repeat center center;
-    background-size: cover;
+	background: url(../images/app8.jpg) no-repeat center center;
+	background-size: cover;
 }
 
 nav {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 nav img {
-    width: 150px;
+	width: 150px;
 }
 
 nav .left-nav {
-    float: left;
+	float: left;
 }
 
 nav ul {
-    float: right;
+	float: right;
 }
 
 nav ul:after {
-    content: "";
-    clear: both;
-    display: block;
+	content: "";
+	clear: both;
+	display: block;
 }
 
 nav li {
-    float: left;
-    padding: 5px 15px;
-    list-style-type: none;
+	float: left;
+	padding: 5px 15px;
+	list-style-type: none;
 }
 
 nav li a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #ffffff;
-    font-weight: 200;
-    letter-spacing: 1px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #ffffff;
+	font-weight: 200;
+	letter-spacing: 1px;
 }
 
 header nav:after {
-    content: "";
-    clear: both;
-    display: block;
+	content: "";
+	clear: both;
+	display: block;
 }
 
 header h1 {
-    color: white;
-    font-weight: 200;
-    letter-spacing: 1px;
-    font-size: 4.5em;
-    word-spacing: 1px;
-    margin-top: 170px;
-    opacity: 1;
-    max-width: 600px;
+	color: white;
+	font-weight: 200;
+	letter-spacing: 1px;
+	font-size: 4.5em;
+	word-spacing: 1px;
+	margin-top: 170px;
+	opacity: 1;
+	max-width: 600px;
 }
 
 header p {
-    color: white;
-    letter-spacing: 1px;
-    font-size: 1.2em;
-    font-weight: 200;
-    word-spacing: 1px;
-    margin-bottom: 70px;
-    line-height: 30px;
-    max-width: 600px;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 1.2em;
+	font-weight: 200;
+	word-spacing: 1px;
+	margin-bottom: 70px;
+	line-height: 30px;
+	max-width: 600px;
 }
 
 header a img {
-    max-height: 50px;
-    margin-bottom: 200px
+	max-height: 50px;
+	margin-bottom: 200px
 }
 
 
@@ -126,77 +126,77 @@ header a img {
 #showcase1 {}
 
 #showcase1 .right {
-    max-width: 300px;
+	max-width: 300px;
 }
 
 #showcase1 h2 {
-    color: black;
-    letter-spacing: 1px;
-    font-size: 3em;
-    font-weight: 200
+	color: black;
+	letter-spacing: 1px;
+	font-size: 3em;
+	font-weight: 200
 }
 
 #showcase1 h3 {
-    letter-spacing: 2px;
-    color: black;
-    font-size: 16px;
-    font-weight: 600;
+	letter-spacing: 2px;
+	color: black;
+	font-size: 16px;
+	font-weight: 600;
 }
 
 #showcase1 p {
-    color: rgb(102, 102, 102);
-    font-weight: 400;
-    line-height: 24px;
-    font-size: 13px;
-    margin-bottom: 24px;
+	color: rgb(102, 102, 102);
+	font-weight: 400;
+	line-height: 24px;
+	font-size: 13px;
+	margin-bottom: 24px;
 }
 
 #showcase1 img {
-    width: 100%;
-    max-width: 500px;
+	width: 100%;
+	max-width: 500px;
 }
 
 #showcase1 .col-md-6 {
-    float: left;
-    margin-top: 70px;
-    margin-bottom: 70px;
+	float: left;
+	margin-top: 70px;
+	margin-bottom: 70px;
 }
 
 #showcase1:after {
-    content: "";
-    clear: both;
-    display: block;
+	content: "";
+	clear: both;
+	display: block;
 }
 
 #showcase2 {
-    background: url(../images/app9.jpg) no-repeat center center;
-    background-size: cover;
+	background: url(../images/app9.jpg) no-repeat center center;
+	background-size: cover;
 }
 
 #showcase2 .col-md-6 {
-    float: right;
-    margin: 150px 0 150px 0;
-    max-width: 550px;
+	float: right;
+	margin: 150px 0 150px 0;
+	max-width: 550px;
 }
 
 #showcase2:after {
-    content: "";
-    clear: both;
-    display: block;
+	content: "";
+	clear: both;
+	display: block;
 }
 
 #showcase2 h2 {
-    color: white;
-    letter-spacing: 1px;
-    font-size: 3.6em;
-    font-weight: 100;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 3.6em;
+	font-weight: 100;
 }
 
 #showcase2 p {
-    color: white;
-    letter-spacing: 1px;
-    font-weight: 200;
-    font-size: 1.3em;
+	color: white;
+	letter-spacing: 1px;
+	font-weight: 200;
+	font-size: 1.3em;
 }
 
 #featured {}
@@ -204,179 +204,179 @@ header a img {
 #featured:after {}
 
 #featured .col-md-3 {
-    float: left;
-    margin-top: 100px;
+	float: left;
+	margin-top: 100px;
 }
 
 #featured .col-md-6 {
-    float: left;
+	float: left;
 }
 
 #featured img {
-    max-width: 100%;
+	max-width: 100%;
 }
 
 #featured .row:after {
-    content: "";
-    display: block;
-    clear: both;
+	content: "";
+	display: block;
+	clear: both;
 }
 
 #featured .row {
-    padding: 100px 0px;
+	padding: 100px 0px;
 }
 
 #featured h3 {
-    letter-spacing: 2px;
-    color: black;
-    font-size: 14px;
-    font-weight: 600;
+	letter-spacing: 2px;
+	color: black;
+	font-size: 14px;
+	font-weight: 600;
 }
 
 #featured p {
-    letter-spacing: 1px;
-    color: rgb(102, 102, 102);
-    line-height: 24px;
-    font-size: 13px;
-    padding-bottom: 50px;
+	letter-spacing: 1px;
+	color: rgb(102, 102, 102);
+	line-height: 24px;
+	font-size: 13px;
+	padding-bottom: 50px;
 }
 
 #featured-small {
-    background-color: #f8f8f8;
+	background-color: #f8f8f8;
 }
 
 #featured-small .col-md-4 {
-    float: left;
-    margin: 100px 0 120px 0;
+	float: left;
+	margin: 100px 0 120px 0;
 }
 
 #featured-small .row:after {
-    content: "";
-    display: block;
-    clear: both;
+	content: "";
+	display: block;
+	clear: both;
 }
 
 #featured-small .right {
-    float: right;
-    width: 80%;
-    padding-right: 20px;
+	float: right;
+	width: 80%;
+	padding-right: 20px;
 }
 
 #featured-small .left {
-    float: left;
-    width: 10px;
-    ;
-    padding-right: ;
-    padding-top: 15px;
+	float: left;
+	width: 10px;
+	;
+	padding-right: ;
+	padding-top: 15px;
 }
 
 #featured-small h3 {
-    color: black;
-    letter-spacing: 2px;
+	color: black;
+	letter-spacing: 2px;
 }
 
 #featured-small i {
-    color: #5edcd0;
+	color: #5edcd0;
 }
 
 #call-to-action {
-    background-color: rgb(41, 41, 41);
+	background-color: rgb(41, 41, 41);
 }
 
 #call-to-action h1 {
-    color: white;
-    font-weight: 100;
-    letter-spacing: 1px;
-    font-size: 72px;
-    word-spacing: 1px;
-    padding-top: 100px;
-    margin: 0;
+	color: white;
+	font-weight: 100;
+	letter-spacing: 1px;
+	font-size: 72px;
+	word-spacing: 1px;
+	padding-top: 100px;
+	margin: 0;
 }
 
 #call-to-action p {
-    color: white;
-    margin-bottom: 70px;
-    font-size: 15px;
-    line-height: 28px;
-    font-weight: 300;
+	color: white;
+	margin-bottom: 70px;
+	font-size: 15px;
+	line-height: 28px;
+	font-weight: 300;
 }
 
 #call-to-action button {
-    background-color: rgb(94, 220, 208);
-    width: 300px;
-    height: 50px;
-    border-radius: 50px;
-    color: white;
-    text-transform: uppercase;
-    font-size: 12px;
-    letter-spacing: 1px;
-    border: none;
-    cursor: pointer;
+	background-color: rgb(94, 220, 208);
+	width: 300px;
+	height: 50px;
+	border-radius: 50px;
+	color: white;
+	text-transform: uppercase;
+	font-size: 12px;
+	letter-spacing: 1px;
+	border: none;
+	cursor: pointer;
 }
 
 #call-to-action .col-md-6 {
-    margin: 0 auto;
-    text-align: center;
+	margin: 0 auto;
+	text-align: center;
 }
 
 #call-to-action img {
-    width: 100%;
-    padding-top: 100px;
-    position: relative;
-    top: 3px;
+	width: 100%;
+	padding-top: 100px;
+	position: relative;
+	top: 3px;
 }
 
 #call-to-action .wrapper {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 footer {
-    background-color: rgb(41, 41, 41)
+	background-color: rgb(41, 41, 41)
 }
 
 footer .col-md-4 {
-    float: left;
-    padding: 30px 0;
+	float: left;
+	padding: 30px 0;
 }
 
 footer .row:after {
-    content: "";
-    display: block;
-    clear: both;
+	content: "";
+	display: block;
+	clear: both;
 }
 
 footer img {
-    max-width: 150px;
-    opacity: 0.5;
+	max-width: 150px;
+	opacity: 0.5;
 }
 
 footer img:hover {
-    opacity: 1;
+	opacity: 1;
 }
 
 footer p {
-    color: rgb(102, 102, 102);
-    text-align: center;
-    letter-spacing: 1px;
+	color: rgb(102, 102, 102);
+	text-align: center;
+	letter-spacing: 1px;
 }
 
 footer ul {
-    float: right;
+	float: right;
 }
 
 footer li {
-    float: left;
-    list-style-type: none;
-    text-decoration: none;
-    margin-left: 15px;
+	float: left;
+	list-style-type: none;
+	text-decoration: none;
+	margin-left: 15px;
 }
 
 footer li a {
-    color: rgb(102, 102, 102);
+	color: rgb(102, 102, 102);
 }
 
 footer li a:hover {
-    color: white;
+	color: white;
 }
 
 
@@ -386,46 +386,46 @@ footer li a:hover {
 /*tablets*/
 
 @media screen and (max-width: 768px) {
-    header ul {
-        float: none;
-        margin: ;
-    }
-    header .left-nav {
-        float: none;
-        text-align: center;
-    }
-    .col-md-4 {
-        width: 100%;
-        float: none;
-    }
-    .col-md-6 {
-        width: 100%;
-        float: none;
-    }
-    .col-md-9 {
-        width: 95%;
-        float: none;
-    }
-    .col-md-3 {
-        width: 95%;
-        float: none;
-    }
-    #showcase1 .right {
-        max-width: none;
-    }
-    #call-to-action img {
-        width: 80%;
-        padding-top: 100px;
-        position: relative;
-        top: 3px;
-    }
-    footer .col-md-4 {
-        float: none;
-        padding: 0px 0;
-        text-align: center;
-    }
-    footer ul {
-        margin: auto;
-        text-align: center;
-    }
+	header ul {
+		float: none;
+		margin: ;
+	}
+	header .left-nav {
+		float: none;
+		text-align: center;
+	}
+	.col-md-4 {
+		width: 100%;
+		float: none;
+	}
+	.col-md-6 {
+		width: 100%;
+		float: none;
+	}
+	.col-md-9 {
+		width: 95%;
+		float: none;
+	}
+	.col-md-3 {
+		width: 95%;
+		float: none;
+	}
+	#showcase1 .right {
+		max-width: none;
+	}
+	#call-to-action img {
+		width: 80%;
+		padding-top: 100px;
+		position: relative;
+		top: 3px;
+	}
+	footer .col-md-4 {
+		float: none;
+		padding: 0px 0;
+		text-align: center;
+	}
+	footer ul {
+		margin: auto;
+		text-align: center;
+	}
 }
